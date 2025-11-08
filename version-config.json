@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.0.0",
-  "showUpdateModal": false,
+  "latestVersion": "1.12",
+  "showUpdateModal": true,
   "features": [
-    "Initial release",
-    "Chat and calling features",
-    "Dark mode support"
+    "🎉 New feature testing",
+    "Bug fixes and improvements",
+    "Performance enhancements"
   ],
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.bharatapp",
-  "releaseDate": "2024-01-15",
-  "minimumSupportedVersion": "1.0.0"
+  "releaseDate": "2024-01-20",
+  "minimumSupportedVersion": "1.10"
 }
